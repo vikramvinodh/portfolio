@@ -80,7 +80,7 @@ function Home() {
           </div>
         </div>
       </div>
-      <div className='p-tools ' data-aos="fade-up" data-aos-duration="800">
+      <div className='p-tools' data-aos="fade-up" data-aos-duration="800">
         <h3>Tools</h3>
         <div className='tool-items'>
           <div id="homeimg1" className="carousel slide" data-bs-ride="carousel" data-bs-interval="6000">
